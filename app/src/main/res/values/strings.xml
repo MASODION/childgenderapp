@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Afla sexul copilului</string>
+    <string name="buna_ziua">Hei! Aceasta aplicatie foloseste o formula primita de la un medic si are ca scop rezolvarea problemei daca viitorul copil ca fi fata sau baiat. Acest algoritm a fost testat pe 80 de persoane si are o probabilitate de 97%. Are legatura cu schimbul cromozomilor. Incearca cu data ta de nastere si datele de nastere ale parintilor. Poate fi folosita si pentru a stabili data in care mama sa ramana insarcinata pentru a avea baiat sau fata. Important sa fie sanatos.</string>
+    <string name="test">Test</string>
+    <string name="data_de_nastere_a_tatalui">Data de nastere a tatalui:</string>
+    <string name="data_de_nastere_a_mamei">Data de nastere a mamei:</string>
+    <string name="mama_dd_mm_yyyy">Mama: DD/MM/YYYY</string>
+    <string name="tata_dd_mm_yyyy">Tata: DD/MM/YYYY</string>
+    <string name="afla">Afla</string>
+    <string name="data_cand_mama_ramane_insarcinata">Data cand mama ramane insarcinata:</string>
+    <string name="copil_dd_mm_yyyy">Copil: DD/MM/YYYY</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="select_date">Select date</string>
+    <string name="select_date1">Select date</string>
+    <string name="select_date2">Select date</string>
+    <string name="apasa_pe_buton_pentru_a_afla_rezultatul">Apasa pe buton pentru a afla rezultatul</string>
+</resources>
